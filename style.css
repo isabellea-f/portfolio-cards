@@ -55,7 +55,7 @@ body {
 }
 
 i {
-  font-size: 5rem;
+  font-size: 4rem;
   color: var(--white);
   margin: 1rem;
 }
@@ -140,5 +140,24 @@ h2 {
 
 .buttons-container {
   display: flex;
+  align-items: center;
   justify-content: center;
+  flex-direction: column;
+  margin-bottom: 5rem;
+}
+
+.color-button {
+  margin-bottom: 1rem;
+  padding: 0.7rem 2rem;
+  background: var(--white);
+  border: none;
+  color: var(--black);
+  border-radius: 3px;
+  font-family: "poppins", sans-serif;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.color-button:hover {
+  transform: scale(1.1);
 }
