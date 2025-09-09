@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --primary-color: #daddd8;
+  --secondary-color: #c7d59f;
+  --white: #f0f3ee;
+  --black: #161616;
+}
+
+body {
+  background-color: var(--primary-color);
+  color: var(--black);
+}
+
+.cards-container {
+  padding: 8rem;
+}
+
+.cards {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.card {
+  padding: 2rem;
+  background-color: var(--secondary-color);
+  min-height: 10rem;
+  max-height: 18rem;
+  width: 12rem;
+  text-align: center;
+}
