@@ -17,7 +17,7 @@ A mini portfolio page showcasing four cards: About me, Education, Experience, an
 
 ## Screenshot
 
-![Portfolio Cards Screenshot](images/portfolio-cards.png)
+<img src="images/portfolio-cards.png" alt="Portfolio Cards Screenshot" width="500">
 
 ## How to run
 
