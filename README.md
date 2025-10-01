@@ -15,6 +15,10 @@ A mini portfolio page showcasing four cards: About me, Education, Experience, an
 - JavaScript
 - Font Awesome icons
 
+## Screenshot
+
+![Portfolio Cards Screenshot](images/portfolio-cards.png)
+
 ## How to run
 
 Clone this repository:
