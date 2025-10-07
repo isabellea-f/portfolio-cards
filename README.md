@@ -24,5 +24,5 @@ A mini portfolio page showcasing four cards: About me, Education, Experience, an
 Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/isabellea-f/portfolio-cards
 ```
